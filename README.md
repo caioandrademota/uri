@@ -1,2 +1,2 @@
 # uri
-repositório de algumas resoluções do uri
+repositório de algumas resoluções do uri online judge
