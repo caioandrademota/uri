@@ -10,5 +10,6 @@ def fibonot(num):
     num += (soma - suc - 1)
     return suc + num
 
+
 num = int(input())
 print(fibonot(num))
