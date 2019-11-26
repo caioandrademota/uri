@@ -5,4 +5,4 @@ dolar_per_hour = float(input())
 salary = worktime * dolar_per_hour
 
 print("NUMBER =", number)
-print("SALARY = US$ %.2f" % salary)
+print("SALARY = U$ %.2f" % salary)
