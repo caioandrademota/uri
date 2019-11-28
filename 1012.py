@@ -9,8 +9,8 @@ trapezium = (c * (a + b))/2
 square = b**2
 rectangle = a * b
 
-print("TRIANGULO: %.3f" %triangle)
-print("CIRCULO: %.3f" %circle)
-print("TRAPEZIO: %.3f" %trapezium)
-print("QUADRADO: %.3f" %square)
-print("RETANGULO: %.3f" %rectangle)
+print("TRIANGULO: %.3f" % triangle)
+print("CIRCULO: %.3f" % circle)
+print("TRAPEZIO: %.3f" % trapezium)
+print("QUADRADO: %.3f" % square)
+print("RETANGULO: %.3f" % rectangle)

@@ -9,5 +9,5 @@ if delta <= 0 or a == 0:
 else:
     root1 = (-b + math.sqrt(delta))/(2*a)
     root2 = (-b - math.sqrt(delta))/(2*a)
-    print("R1 = %.5f" %root1)
-    print("R2 = %.5f" %root2)
+    print("R1 = %.5f" % root1)
+    print("R2 = %.5f" % root2)

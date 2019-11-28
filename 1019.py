@@ -12,4 +12,4 @@ if seconds >= 60:
 else:
     minutes = 0
 
-print("%d:%d:%d" %(hours, minutes, seconds))
+print("%d:%d:%d" % (hours, minutes, seconds))
